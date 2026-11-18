@@ -1,0 +1,22 @@
+# Build outputs
+.sdk/
+build/
+dist/
+mpc/build/
+mpc/dist/
+vst3/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

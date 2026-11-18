@@ -1,0 +1,126 @@
+{
+  "source": "asmir.info/lib/murzin0.htm + Habr 961642 + patent SU118695 + CyberLeninka Kreichi 2013",
+  "variant": 2,
+  "tones": 720,
+  "discs": 5,
+  "tracks_per_disc": 144,
+  "f0_hz": 21.09,
+  "top_hz": 21389.25,
+  "octaves": 10,
+  "divisions_per_octave": 72,
+  "cents_per_step": 16.666666666666668,
+  "disc_speed_rev_s_low_to_high": [
+    0.09375,
+    0.375,
+    1.5,
+    6,
+    24
+  ],
+  "disc_speed_rpm_low_to_high": [
+    5.625,
+    22.5,
+    90.0,
+    360,
+    1440
+  ],
+  "disc_geometry": {
+    "outer_diameter_mm": 120,
+    "inner_diameter_mm": 30,
+    "track_pitch_mm": 0.3125,
+    "track_width_mm": 0.31,
+    "spatial_wavelength_mm": 0.4229310606019652,
+    "cycles_per_ring_inner": 225.0,
+    "cycles_per_ring_outer": 891.3772327201436
+  },
+  "channels": 20,
+  "tracks_per_channel": 36,
+  "channel_bandwidth_octaves": 0.5,
+  "channel_edges_hz": [
+    21.09,
+    29.825764030448575,
+    42.18,
+    59.65152806089715,
+    84.36,
+    119.3030561217943,
+    168.72,
+    238.6061122435886,
+    337.44,
+    477.2122244871772,
+    674.88,
+    954.4244489743544,
+    1349.76,
+    1908.8488979487088,
+    2699.52,
+    3817.6977958974176,
+    5399.04,
+    7635.395591794835,
+    10798.08,
+    15270.79118358967
+  ],
+  "channel_centers_hz": [
+    25.080378055407387,
+    35.46901079540168,
+    50.16075611081477,
+    70.93802159080336,
+    100.32151222162955,
+    141.87604318160672,
+    200.6430244432591,
+    283.75208636321344,
+    401.2860488865182,
+    567.5041727264269,
+    802.5720977730364,
+    1135.0083454528537,
+    1605.1441955460728,
+    2270.0166909057075,
+    3210.2883910921455,
+    4540.033381811415,
+    6420.576782184291,
+    9080.06676362283,
+    12841.153564368582,
+    18160.13352724566
+  ],
+  "score": {
+    "projection_height_mm": 720,
+    "segment_mm": 36,
+    "glass_thickness_mm": 7,
+    "resolution_mm": 0.8,
+    "line_width_mm": [
+      0.1,
+      1.0
+    ],
+    "level_range_db": 20,
+    "max_speed_mm_s": 24,
+    "min_duration_s": 20,
+    "attack_ms": 1,
+    "dynamic_range_db": [
+      24,
+      48
+    ],
+    "envelope_points_per_sweep": 22,
+    "formant_points_per_octave": 5
+  },
+  "coder": {
+    "cutters": 16,
+    "pitch_divisions_per_octave": 72
+  },
+  "first_variant": {
+    "tones": 576,
+    "discs": 4,
+    "range_hz": [
+      42,
+      10800
+    ],
+    "octaves": 8,
+    "speeds_rev_s": [
+      12,
+      3,
+      0.75,
+      0.1875
+    ],
+    "disc_geometry_mm": [
+      120,
+      30
+    ],
+    "track_width_mm": 0.31
+  }
+}

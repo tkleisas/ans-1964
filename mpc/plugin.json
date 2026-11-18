@@ -1,0 +1,17 @@
+{
+  "name": "ANS 1964",
+  "manufacturer": "bokontep",
+  "version": "1.1.2",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "ByLm",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/ans-1964-arm32.so",
+  "file64": "VST/ans-1964-arm64.so",
+  "description": "Independent emulation of the 1964 five-disc ANS photoelectronic synthesizer: 720 optical sine partials at 1/72-octave spacing, a drawn-sonogram score scanner with on-device XYPad drawing, 20 half-octave tube channels, and a 16-harmonic coder with formant templates. Built for MPC OS 3.10.1+ and desktop VST2 hosts.",
+  "author": "bokontep",
+  "url": "",
+  "license": "GPL-3.0-or-later"
+}

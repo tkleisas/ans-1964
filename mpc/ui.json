@@ -1,0 +1,78 @@
+{
+  "kit": "amber",
+  "pages": [
+    {
+      "name": "SCORE",
+      "controls": [
+        {"param": "Score", "widget": "slider", "overlay": "menu"},
+        {"param": "Run", "widget": "switch"},
+        {"param": "Speed", "widget": "knob"},
+        {"param": "Backward", "widget": "switch"},
+        {"param": "Loop", "widget": "slider", "overlay": "menu"},
+        {"param": "Scan Pos", "widget": "knob"},
+        {"param": "Score Level", "widget": "fader"},
+        {"param": "Volume", "widget": "fader"}
+      ]
+    },
+    {
+      "name": "SPEC A",
+      "controls": [
+        {"param": "Ch 1", "widget": "fader"},
+        {"param": "Ch 2", "widget": "fader"},
+        {"param": "Ch 3", "widget": "fader"},
+        {"param": "Ch 4", "widget": "fader"},
+        {"param": "Ch 5", "widget": "fader"},
+        {"param": "Ch 6", "widget": "fader"},
+        {"param": "Ch 7", "widget": "fader"},
+        {"param": "Ch 8", "widget": "fader"},
+        {"param": "Ch 9", "widget": "fader"},
+        {"param": "Ch 10", "widget": "fader"}
+      ]
+    },
+    {
+      "name": "SPEC B",
+      "controls": [
+        {"param": "Ch 11", "widget": "fader"},
+        {"param": "Ch 12", "widget": "fader"},
+        {"param": "Ch 13", "widget": "fader"},
+        {"param": "Ch 14", "widget": "fader"},
+        {"param": "Ch 15", "widget": "fader"},
+        {"param": "Ch 16", "widget": "fader"},
+        {"param": "Ch 17", "widget": "fader"},
+        {"param": "Ch 18", "widget": "fader"},
+        {"param": "Ch 19", "widget": "fader"},
+        {"param": "Ch 20", "widget": "fader"}
+      ]
+    },
+    {
+      "name": "CODER",
+      "controls": [
+        {"param": "Coder Level", "widget": "fader"},
+        {"param": "Harmonics", "widget": "knob"},
+        {"param": "Formant", "widget": "slider", "overlay": "menu"},
+        {"param": "Frmt Shift", "widget": "knob"},
+        {"param": "Coder Decay", "widget": "knob"},
+        {"param": "Coder Note", "widget": "knob"},
+        {"param": "Coder Gate", "widget": "switch"},
+        {"param": "Volume", "widget": "fader"}
+      ]
+    },
+    {
+      "name": "COLOR",
+      "controls": [
+        {"param": "Wow Depth", "widget": "knob"},
+        {"param": "Wow Rate", "widget": "knob"},
+        {"param": "Track Noise", "widget": "knob"},
+        {"param": "Blur", "widget": "knob"},
+        {"param": "HF Loss", "widget": "knob"},
+        {"param": "Hum", "widget": "knob"},
+        {"param": "Dyn Mode", "widget": "slider", "overlay": "menu"},
+        {"param": "Dyn Amount", "widget": "knob"},
+        {"param": "Dyn Rate", "widget": "knob"},
+        {"param": "Drive", "widget": "knob"},
+        {"param": "Line Mode", "widget": "slider", "overlay": "menu"},
+        {"param": "Width", "widget": "knob"}
+      ]
+    }
+  ]
+}
